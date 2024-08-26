@@ -1,14 +1,14 @@
+**Live Demo**
+You can view the deployed application at this link  https://deep-thoughts-swart.vercel.app/ 
+The project is hosted on Vercel.
 
-<<<<<<< HEAD
-# Assignment
-Task given by Deep Thoughts
-=======
-# React + Vite
+**Accordion**
+Interactive Accordion: Click the down arrow to expand and view the content inside the accordion.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Technologies Used**
+React: For building the user interface,creating reusable components and managing state.
+Tailwind CSS: For styling the application and ensuring a responsive design.
+Vercel : For deployment purpose
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 227c61b (Initial commit)
+
